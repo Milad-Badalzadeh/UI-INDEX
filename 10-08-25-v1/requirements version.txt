@@ -1,3 +1,0 @@
-python-dotenv 1.1.1
-requests 2.32.5
-Python 3.13.7
